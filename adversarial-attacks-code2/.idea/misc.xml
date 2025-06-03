@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="env_test" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.16 (sftp://wj21zcx@192.168.135.213:22/home/wj21zcx/.virtualenvs/adversarial-attacks-code2/bin/python)" project-jdk-type="Python SDK" />
+</project>
